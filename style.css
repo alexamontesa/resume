@@ -1,0 +1,43 @@
+#name {
+	color: #CF0000;
+	display: block;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+#contact {
+  text-align: center;
+}
+
+a {
+	color: #0000B2;
+}
+
+.title {
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 15px 0px 10px 0px;
+  text-align: center;
+  background-color: #2E2E44;
+  color: white;
+}
+
+#objective, #exp, #education, #organizations {
+  margin: 0 auto;
+  width: 49%;
+  
+}
+
+#skills, #interests {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+
+#section {
+  width: 49%;
+  margin: 0 auto;
+}
